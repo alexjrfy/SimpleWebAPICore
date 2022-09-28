@@ -18,8 +18,8 @@ namespace DevIO.API.Controllers
         private readonly IMapper _mapper;
 
         public FornecedoresController(
-            IFornecedorRepository fornecedorRepository, 
-            IMapper mapper, 
+            IFornecedorRepository fornecedorRepository,
+            IMapper mapper,
             IFornecedorService fornecedorService
         )
         {
@@ -34,8 +34,15 @@ namespace DevIO.API.Controllers
         {
             var fornecedor = _mapper.Map<IEnumerable<FornecedorViewModel>>(await _fornecedorRepository.ObterTodos());
             return fornecedor;
-            //return Ok();
         }
+
+        [HttpGet("{id:guid}")]
+        public async Task<FornecedorViewModel> ObterFornecedor(Guid id)
+        {
+            var fornecedor = _mapper.Map<FornecedorViewModel>(await _fornecedorRepository.ObterFornecedorProdutosEndereco(id));
+            return fornecedor;
+        }
+
 
         [HttpPost]
         public async Task<ActionResult<FornecedorViewModel>> Adicionar(FornecedorViewModel fornecedorViewModel)
