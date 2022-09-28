@@ -1,0 +1,10 @@
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\alexj\OneDrive\Área de Trabalho\Programação\Estudo\WebApi\WebAPI\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
